@@ -1,0 +1,70 @@
+﻿Underground Life
+
+Until the late 1980s, most scientists believed that life was restricted to the top few meters of the soil or ocean sediments.
+
+The few reports of organisms being recovered from great depths within Earth were dismissed as contamination with material from the surface layers.
+
+Two technical developments changed this view.
+
+The first was the development of drilling techniques that gave confidence that samples could be retrieved from depth without contamination.
+
+Samples were recovered using a diamond-studded drill bit that headed a great length of rotating steel pipe from a drilling derrick.
+
+A concentrated tracer material was added to the lubricating fluid so that when a deep sample of rock was removed, any contaminated material could be identified and cut away to leave a pristine sample of rock from deep within Earth.
+
+The second development was the advent of techniques for identifying microorganisms without having to grow them in culture.
+
+All organisms contain DNA, and their presence can be revealed by dyes that either stain DNA directly or can be attached to nucleic acid probes.
+
+By varying the nucleic acid probe, scientists can demonstrate the presence of different types of microorganisms.
+
+The first scientists to use these techniques were involved in the Subsurface Science Program of the United States Department of Energy (DOE).
+
+They were interested in the possibility that if organisms existed in the depths of Earth, they might degrade organic pollutants and help maintain the purity of groundwater or, rather less usefully, degrade the containers in which the DOE was proposing to deposit the radioactive waste from nuclear facilities.
+
+They demonstrated the presence of many different types of microorganisms in rocks at depths down to 500 meters beneath the surface.
+
+Since then, microbes have been discovered in many different types of rocks and deep within ocean sediments.
+
+The record depth at which life has been found is at the bottom of a South African gold mine, 3.5 kilometers below ground.
+
+Pressure and temperature increase as you go deeper into Earth.
+
+Some scientists think that subsurface bacteria could withstand temperatures as high as 150℃.
+
+This would allow organisms to exist to depths of about 7 kilometers beneath the seafloor and to 4 kilometers below the surface of the land.
+
+Although the organisms are often sparsely distributed, this is such an enormous volume that it has been estimated that the total biomass of deep subsurface organisms exceeds that of those living on, or just below, the surface.
+
+Bacteria are the most numerous of these subsurface organisms, but there are also fungi and protozoa.
+
+Some 10,000 strains of microorganism have been isolated from subsurface cores.
+
+Each gram of rock contains anything from 100 bacteria to 10 million bacteria (compared with more than 1 billion per gram in agricultural soils);
+
+ocean sediments contain even higher numbers.
+
+The protozoa feed on the bacteria, forming part of a simple subterranean food chain, but what do the bacteria feed on?
+
+Sedimentary rocks are formed from sands and from ocean, river, or lake sediments that have organic material trapped within them.
+
+Microbes living in pores within the sediments can utilize these ancient nutrients and grow.
+
+As sedimentary rocks are buried more deeply, they become increasingly compacted and their pores filled with minerals.
+
+The distribution of microorganisms is thus likely to become more patchy, condensed into the remaining pores and concentrations of nutrients.
+
+The bulk of Earth's crust, however, consists of igneous rocks, such as granite and basalt, which are solidified from molten magma.
+
+These rocks were too hot to support life when they were first formed;
+
+the organisms that inhabit cracks and fissures within the rocks are carried there by the groundwater flowing through them.
+
+Subsurface bacteria do not just rely on nutrients trapped within the rock or carried there by groundwater.
+
+Some are chemotrophs, deriving their energy from the oxidation of iron or sulfur compounds and building organic material directly from the carbon dioxide and hydrogen gas dissolved in the rock.
+
+These bacteria excrete organic compounds that are then utilized by other types of bacteria.
+
+These ecosystems based on chemotrophic bacteria are completely independent of material and solar energy from the surface.
+

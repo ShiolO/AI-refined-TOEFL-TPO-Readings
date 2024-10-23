@@ -1,0 +1,82 @@
+﻿Pests and Pesticides
+
+Around 1870, a little fruit-eating insect arrived in San Jose, California, on some nursery stock shipped from Asia.
+
+The pest, which became known as the San Jose scale, quickly spread through the United States and Canada, killing orchard trees as it went.
+
+Farmers found that the best way to control the scale was to spray their orchards with a mixture of sulfur and lime.
+
+Within a few weeks of spraying a tree, the insect vanished completely.
+
+Around the turn of the century, however, farmers began to notice that the sulfur-lime mixture was not working all that well.
+
+A handful of scales would survive a spraying and eventually rebound to their former numbers.
+
+In Clarkston Valley in Washington State, orchard growers became convinced that manufacturers were adulterating their pesticide.
+
+They built their own factory to guarantee a pure poison, which they drenched over their trees, yet the scale kept spreading uncontrollably.
+
+An entomologist named A. L. Melander inspected the trees and found scales living happily under a thick crust of dried spray.
+
+Melander began to suspect that adulteration was not to blame.
+
+In 1912, he compared how effective the sprays were in different parts of Washington.
+
+In Yakima and Sunnyside, he found that sulfur-lime could wipe out every last scale on a tree, while in Clarkston between 4 and 13 percent survived.
+
+On the other hand, the Clarkston scales were annihilated by a different pesticide made from fuel oil, just as the insects in other parts of Washington were.
+
+In other words, the scales of Clarkston had a peculiar resistance to sulfur-lime.
+
+Melander wondered why.
+
+He knew that if individuals eat small amounts of certain poisons, such as arsenic, they can build up an immunity.
+
+But San Jose scales bred so quickly that no single scale experienced more than a single spray of sulfur-lime, giving them no chance to develop immunity.
+
+A radical idea occurred to Melander.
+
+Perhaps mutations made a few scales resistant to sulfur-lime.
+
+When farmers sprayed their trees, these resistant scales survived, as did a few nonresistant ones that hadn't received a fatal dose.
+
+The surviving scales would then breed, and the resistant genes would become more common in the following generations.
+
+Depending on the proportions of the survivors, the trees might become covered by resistant or nonresistant scales.
+
+In the Clarkston Valley region, farmers had been using sulfur-lime longer than anywhere else in the Northwest and were desperately soaking their trees with the stuff.
+
+In the process, they were driving the evolution of more resistant scales.
+
+Melander offered his ideas in 1914, but no one paid much attention to him;
+
+they were too busy discovering even more powerful pesticides.
+
+In 1939, the Swiss chemist Paul Muller found that a compound of chlorine and hydrocarbons called DDT could kill insects more effectively than any previous pesticide had.
+
+DDT was cheap and easy to make, it could kill many species of insects, and it was stable enough to be stored for years.
+
+It could be used in small doses, and it didn't seem to pose any health risks to humans.
+
+Between 1941 and 1976, 4.5 million tons of DDT were produced.
+
+DDT was so powerful and cheap that farmers gave up old-fashioned ways of controlling pests, such as draining standing water or breeding resistant strains of crops.
+
+DDT and similar pesticides created the delusion that pests could be not merely controlled but eradicated, so farmers began spraying pesticides on their crops as a matter of course, rather than to control outbreaks.
+
+Meanwhile, public health workers saw in DDT the hope of controlling mosquitoes, which spread diseases such as malaria.
+
+DDT certainly saved a great many lives and crops, but even in its early days, some scientists saw signs of its doom.
+
+In 1946, Swedish scientists discovered houseflies that could no longer be killed with DDT.
+
+Houseflies in other countries became resistant as well in later years, and soon other species could withstand it.
+
+Melander's warning was becoming a reality.
+
+By 1992, more than 500 species were resistant to DDT, and the number is still climbing.
+
+As DDT began to fail, farmers at first just applied more of it;
+
+when more no longer worked, they switched to newer pesticides.
+

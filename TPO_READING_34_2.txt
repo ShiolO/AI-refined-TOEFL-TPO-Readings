@@ -1,0 +1,76 @@
+﻿The Development of Steam Power
+
+By the eighteenth century, Britain was experiencing a severe shortage of energy.
+
+Due to the population growth, most of the great forests of medieval Britain had long been replaced by fields of grain and hay.
+
+Wood was in increasingly short supply, yet it remained tremendously important.
+
+It served as the primary source of heat for all homes and industries, as well as a basic raw material.
+
+Processed wood (charcoal) was the fuel mixed with iron ore in the blast furnace to produce pig iron (raw iron).
+
+The iron industry had a huge demand for wood, and by 1740, the British iron industry was stagnating.
+
+Vast forests enabled Russia to become the world's leading producer of iron, much of which was exported to Britain.
+
+However, Russia's potential for growth was also limited, and in a few decades, Russia would face the same energy barrier that was already holding England back.
+
+As this early energy crisis worsened, Britain turned to its abundant and widely scattered reserves of coal as an alternative to its depleting wood.
+
+Coal was first used in Britain in the late Middle Ages as a source of heat.
+
+By 1640, most homes in London were heated with coal, and it was also used for making beer, glass, soap, and other products.
+
+However, coal was not used for mechanical energy or powering machinery.
+
+It was in this aspect that coal had enormous potential.
+
+As coal production increased, mines were dug deeper and deeper, constantly filling with water.
+
+Mechanical pumps, usually powered by hundreds of horses walking in circles at the surface, had to be installed.
+
+Such power was expensive and troublesome.
+
+In an attempt to overcome these disadvantages, Thomas Savery invented the first primitive steam engine in 1698, followed by Thomas Newcomen in 1705.
+
+Both engines were highly inefficient.
+
+They burned coal to produce steam, which was then used to operate a pump.
+
+However, by the early 1770s, many Savery engines and hundreds of Newcomen engines were operating successfully, albeit inefficiently, in English and Scottish mines.
+
+In the early 1760s, a talented young Scot named James Watt became deeply involved in the study of the steam engine.
+
+Watt was employed at the University of Glasgow as a skilled crafts worker making scientific instruments.
+
+In 1763, Watt was tasked with repairing a Newcomen engine used in a physics course.
+
+After a series of observations, Watt realized that the Newcomen engine wasted energy and could be improved by adding a separate condenser.
+
+This remarkable invention, patented in 1769, significantly increased the efficiency of the steam engine.
+
+The steam engine developed by Watt and his followers was a technological advancement that provided people with, at least temporarily, unlimited power and enabled the invention and use of various power equipment.
+
+The steam engine was swiftly adopted in several industries in Britain.
+
+It drained mines and facilitated the production of more coal to power steam engines elsewhere.
+
+The steam power plant began replacing waterpower in cotton-spinning mills and other industries during the 1780s, contributing to a remarkable surge in industrialization.
+
+The British iron industry underwent a radical transformation.
+
+The use of powerful, steam-driven bellows in blast furnaces allowed iron makers to rapidly switch from limited charcoal to unlimited coke (made from coal) in the smelting of pig iron (the process of refining impure iron) after 1770.
+
+In the 1780s, Henry Cort developed the puddling furnace, which enabled the refinement of pig iron with coke.
+
+Cort also created heavy-duty, steam-powered rolling mills capable of producing finished iron in various shapes and forms.
+
+The economic consequence of these technical innovations in steam power was a significant boom in the British iron industry.
+
+In 1740, annual British iron production was only 17,000 tons, but by 1844, with the widespread adoption of coke smelting and the impact of Cort's inventions, it had increased to 3,000,000 tons.
+
+This expansion was truly remarkable.
+
+Iron, once scarce and expensive, became cheap, fundamental, and indispensable to the economy.
+

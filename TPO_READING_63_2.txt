@@ -1,0 +1,78 @@
+﻿Structure and Composition of Comets
+
+Astronomers now have a fairly good idea of what a comet really is.
+
+When it is far from the Sun, it is a very small object only a few kilometers across.
+
+It consists mainly of ices (water, methane, ammonia) with bits of dust embedded in it-a kind of dirty ice ball.
+
+As it approaches the Sun, radiation from the Sun vaporizes the icy matter and releases some of the dust.
+
+This forms a gigantic halo around the ice ball.
+
+This halo, called the coma, extends out tens of thousands of kilometers from the icy core, which is the nucleus of the comet.
+
+Sunlight reflected off the dust particles makes the coma visible to observers on Earth.
+
+Ultraviolet radiation from the Sun breaks down the vapor molecules into their constituents.
+
+These components can be excited by absorbing radiation from the Sun.
+
+In returning to lower-energy states, the excited atoms and ions emit light, contributing to the luminosity of the coma.
+
+When the comet gets even closer to the Sun, one of its most spectacular parts begins to form-the tail.
+
+Actually, there are two kinds of tails: the dust tail and the ion tail.
+
+The dust tail is produced by the light from the Sun reflecting off the dust particles in the coma.
+
+A photon carries momentum.
+
+In bouncing off a dust particle, it imparts a tiny, but perceptible, momentum change to the dust particle, driving it away from the coma.
+
+As the comet sweeps along its orbit, it leaves a curving trail of dust behind in its path.
+
+This visible dust tail can extend for tens or hundreds of millions of kilometers out from the nucleus.
+
+The dust tail is characterized by its gently curving shape and its yellowish color.
+
+A different mechanism is responsible for the ion tail.
+
+Near the Sun, ultraviolet radiation from the Sun (solar wind) ionizes and excites the atoms in the coma.
+
+As the solar wind sweeps through the coma, the high-velocity charged particles of the solar wind interact with the electrically charged excited ions in the coma, driving them away from the head of the comet.
+
+In returning to lower-energy states, these excited ions emit photons and form a luminous, bluish-colored tail extending out from the comet directly away from the Sun.
+
+Since both kinds of tails are produced by radiation streaming out from the Sun, they extend out from the coma in the general direction away from the Sun.
+
+A comet may exhibit several tails of each kind.
+
+Although the nucleus is of the order of a few kilometers in size, the diameter of the coma may be tens or hundreds of thousands of kilometers;
+
+the tails typically extend out tens or hundreds of millions of kilometers away from the coma.
+
+A comet leaves a trail of matter behind it as it moves through the inner solar system.
+
+Some of this debris may get strewn across Earth's orbit around the Sun.
+
+When Earth passes through this part of its annual path, it sweeps through the dust trail.
+
+The particles enter Earth's atmosphere at high velocity.
+
+The air friction can cause one of these bits of matter to produce a brief streak of light as it burns up in the atmosphere.
+
+Since a comet loses matter on each pass by the Sun, eventually it will be depleted to the point where it is no longer visible.
+
+Comets that approach the Sun have finite lifetimes.
+
+Given the typical sizes of comets and the typical rates at which they lose matter, astronomers have concluded that the lifetimes of comets with orbits that bring them near enough to the Sun to be seen from Earth are very much shorter than the age of the solar system.
+
+Where do the new comets come from to replace the old ones that dissipate and vanish from view?
+
+Dutch astronomer Jan Oort proposed that a giant cloud of matter left over from the formation of the solar system surrounds the Sun and extends out to about 50,000 astronomical units.
+
+This cloud contains large chunks of matter like the nuclei of comets.
+
+The gravitational influence of a passing star can be sufficient to perturb the orbit of one of these chunks to send it toward the inner solar system and bring it near the Sun.
+

@@ -1,0 +1,60 @@
+﻿Early Ideas About Deep-Sea Biology
+
+In 1841, Edward Forbes was offered the opportunity to serve as a naturalist aboard HMS Beacon, an English Royal Navy ship assigned to survey the Aegean Sea.
+
+For a year and a half, the Beacon crisscrossed the Aegean waters.
+
+During that time, Forbes was able to drag a small, triangular dredge-a tool with a leather net for capturing creatures along the sea bottom-at a hundred locations, at depths ranging from 6 to 1380 feet.
+
+He collected hundreds of different species of animals and observed that they were distributed in eight different depth zones, each containing its own distinct assemblage of animal life, similar to how zones of elevation on the side of a mountain are populated by distinct sets of plants.
+
+Forbes also believed that he observed, as he later told the British Association, a decrease in the number of species and individuals as they descended, indicating a lack of animal life in unexplored areas.
+
+Forbes casually speculated that this lack of life, which he extended as a line on his graph of animal number versus depth, probably began at a depth of 1,800 feet.
+
+Below that depth was the final zone in Forbes's scheme, zone nine, which covered most of the ocean floor and thus most of the solid surface of Earth.
+
+Forbes referred to this zone as the "azoic zone," where no animals, let alone plants, could survive.
+
+At the time, Forbes's concept of the azoic zone was plausible and not the strangest idea about the deep sea.
+
+In the early 19th century, a French naturalist named Francois Peron had sailed around the world measuring the temperature of the ocean.
+
+He found that the deeper the water, the colder it became, leading him to conclude that the seafloor was covered with a thick layer of ice.
+
+Peron ignored the fact that water expands when it freezes, causing ice to float.
+
+Another popular belief at the time was that water at great depths would be compressed to such a density that nothing could sink through it.
+
+This belief disregarded the fact that water is nearly incompressible.
+
+However, even the more sensible naturalists of the day held a similar misconception.
+
+They imagined the deep sea as an unmoving and undisturbed pool of cold, dense water.
+
+In reality, the deep sea is constantly refreshed by cold water sinking from above.
+
+The main implication of all these misconceptions was that nothing could survive in the abyss, as Forbes's observations seemed to indicate.
+
+However, Forbes made two errors.
+
+First, the study site he used as a basis for his sweeping assumption of a lifeless abyss was not representative.
+
+Although the Aegean Sea had been the birthplace of marine biology, its depths are now known to have exceptionally low animal diversity.
+
+Furthermore, Forbes was not particularly successful in sampling the life that did exist at the bottom of the Aegean, through no fault of his own.
+
+His dredge was inadequate, with a small opening and large holes in the net, causing it to inevitably miss animals.
+
+Many of the animals it did capture likely escaped through the open mouth of the dredge when Forbes reeled it in.
+
+Therefore, his azoic zone was a plausible but exaggerated extrapolation based on pioneering yet insufficient data.
+
+As it turned out, the existence of the azoic zone had already been disproven before Forbes proposed it, and the theory continued to be contradicted regularly throughout its long and influential lifespan.
+
+In 1818, while searching for the Northwest Passage from the Atlantic to the Pacific, Sir John Ross lowered his "deep-sea clam"-a type of bivalved sediment scoop-into the waters of Baffin Bay, an inlet between the Atlantic and Arctic Oceans, which he determined to be more than a thousand fathoms deep in some places.
+
+Modern soundings indicate that he overestimated the depths by several hundred fathoms, but regardless, Ross's clam dove several times deeper than Forbes's dredge.
+
+It brought back mud containing worms and starfish that had entangled themselves in the line at depths well below the supposed boundary of the azoic zone.
+

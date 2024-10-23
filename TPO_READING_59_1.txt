@@ -1,0 +1,74 @@
+﻿Building Materials
+
+The radical change brought by the new industrial world of the nineteenth century to architectural materials cannot be overstated.
+
+Throughout architectural history, the same fundamental substances had been utilized.
+
+They were sourced directly from nature and used in their natural or near-natural state, only cut, shaped, and dried into functional forms such as timbers, stone blocks, and clay bricks.
+
+Lime mortar and Roman concrete were exceptions.
+
+Metals, which possessed the tensile strength lacking in masonry materials, were used in minor and supplementary capacities.
+
+Bronze, although brittle and expensive, was employed, while iron, the more structurally significant metal, was limited in availability and quality, and susceptible to rust.
+
+Consequently, it was primarily used for tie-rods, chains, masonry clamps, and decoration.
+
+Prior to the nineteenth century, iron's structural presence in architecture was hardly noticeable.
+
+The Industrial Revolution changed this paradigm.
+
+Iron materials became abundantly available, enabling them to play a much larger role in architecture.
+
+In 1800, global iron production stood at 825,000 tons.
+
+By 1830, it had reached 1,825,000 tons, and by 1900, it had soared to nearly 40,000,000 tons-an almost fifty-fold increase over the century.
+
+This growth was not only in quantity but also in quality.
+
+Iron, found plentifully in the Earth's crust as an oxide, is a material with remarkable variability.
+
+It is not simply pure or impure but can be made hard or soft, brittle or ductile, strong or weak.
+
+These characteristics depend on carbon content, freedom from impurities (slag), and heating and cooling treatments of the refined metal.
+
+Traditionally, three versions existed: cast iron, wrought iron, and steel.
+
+Cast iron is the crudest form, containing the most impurities and thus being extremely brittle.
+
+Wrought iron, due to its low carbon content, is highly malleable (hence its name) but comparably soft.
+
+The optimal material is steel, which incorporates a restricted amount of carbon for hardness while being free of impurities, giving it great strength.
+
+Through tempering treatments, steel also becomes malleable.
+
+Cast and wrought iron experienced prodigious manufacturing in the early and mid-nineteenth century due to rapid demand growth, improved transportation methods, and more efficient iron-founding techniques.
+
+However, the mass production of steel required further technological innovations to eliminate weakening impurities and achieve precise control over carbon content.
+
+These advancements were realized with the implementation of the Bessemer process in 1860 and the open-hearth process in 1864.
+
+In the last third of the century, scientific iron metallurgy perfected these techniques.
+
+A significant yet lesser-known fact is that the main form of increased steel production was technically not steel but a type of wrought iron.
+
+It lacked a crucial property of true steel-its hardening power.
+
+However, it differed from older forms of wrought iron because it was free from the weakening presence of slag while remaining malleable (unlike cast iron).
+
+It was labeled as steel solely because the name carried the connotation of a high-quality and high-priced product.
+
+Another alternative building material was concrete, consisting of an aggregate of broken stone, gravel, or other hard fragments embedded in a matrix of lime, sand, and water.
+
+Although first used in Roman times, its modern resurgence relied on the invention of Portland cement in 1824-a substance significantly stronger, more durable, and fire-resistant than ancient lime cement.
+
+Mass-produced concrete began to be widely used in the 1850s and 1860s, such as in the construction of the sewers of Paris.
+
+However, even with Portland cement, the use of concrete was limited by its low tensile strength.
+
+The solution came in the form of newly available iron and steel, whose properties complemented those of concrete.
+
+The latter material was inexpensive and easily molded into large structural forms with high compressive strength but limited tensile strength.
+
+On the other hand, iron and steel were costly, challenging to shape, but possessed exceptional tensile strength and were readily available in the form of long, thin bars.
+

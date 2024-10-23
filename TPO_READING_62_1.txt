@@ -1,0 +1,68 @@
+﻿Plant Adaptations to Cool Environments
+
+There are many interesting adaptations that allow plants to survive in cool environments.
+
+One obvious strategy is dormancy (a suspension of activity) during the cold season.
+
+Most of the common trees in the forests of northeastern North America, western Europe, and eastern Asia, such as the maples, oaks, beech, birches, and ashes, are deciduous trees that lose their frost-sensitive leaves during the cold winter season.
+
+In most of these trees, the leaves suffer damage at temperatures of freezing or just below.
+
+The new leaves arise in the spring from winter buds that can remain viable at colder temperatures.
+
+Most of the needle-leaved conifers of the northern and alpine forests, such as pines, spruces, and firs, do not lose their leaves during the winter.
+
+How do such evergreen plants escape intracellular freezing (freezing within cells) and tissue destruction when temperatures may drop to -40℃ or colder?
+
+In these plants, the onset of cool temperatures causes physiological changes that allow plant tissue to either avoid freezing or restrict freezing to extracellular areas (those outside of cells).
+
+For plants to avoid freezing, they must chemically alter their liquids into a form that is analogous to antifreeze in automobiles.
+
+The liquids in these plants can be cooled far below 0℃ and will not freeze.
+
+This process is called supercooling and is achieved by the metabolic synthesis of sugars and other molecules which, when in solution in the plant's tissue, lower the temperature for ice formation to far below 0℃.
+
+Supercooling seems to be the prevalent mechanism of frost resistance in herbs.
+
+For woody plants, supercooling is augmented by declines of cellular water content, greater cellular accommodation to deformation, and processes that allow water to accumulate and freeze in extracellular spaces.
+
+The loss of water from the cells to extracellular areas increases the solute content (the quantity of dissolved substances) of the remaining cell water, making it more resistant to freezing.
+
+The cell walls can accommodate the deformations caused by water freezing on the exterior of the cell.
+
+For northern and alpine evergreens such as pines and spruces, both supercooling and extracellular ice formation play a part in allowing the plants to withstand extremely cold temperatures.
+
+One interesting facet of these physiological adaptations to freezing is that most of these plants will still be damaged by cold temperatures if they do not have a period of cooling in which to adjust to the onset of winter.
+
+This process of physiological preparation for the onset of winter cold is called frost hardening.
+
+Some members of the cactus family appear to resist freezing during cool nights by radiating heat stored during the day in their thick, moist tissue.
+
+The greater the mass of the cactus, the more heat it can store and the less prone it will be to freezing damage during the night.
+
+How is it then that these cacti can survive cold temperatures when they are young and small?
+
+The giant saguaro cactus is perhaps the best-known symbol of the southwestern desert of North America.
+
+In the popular lore of North America, the distinctive shape of the multistemmed saguaro is a universally recognized icon that is used to represent deserts in movies, television, and comics.
+
+Yet, this distinctive and widely recognized plant is actually found only in the Sonoran Desert of California, Arizona, and adjacent Mexico.
+
+The saguaro cactus is damaged or killed if exposed to prolonged freezing temperatures.
+
+Desert climates in the northern Sonoran Desert are typified by warm days but sometimes experience nighttime temperatures that are below freezing in the winter.
+
+Young saguaros that survive are found sheltered beneath more frost-tolerant desert shrubs.
+
+The cover of these shrubs acts as a thermal blanket, capturing heat radiated from the ground and keeping the microclimate of the small saguaro warm at night.
+
+As the cactus grows, it eventually rises above the cover of the protective shrub.
+
+The radiation of heat from the stalk of the large mature cactus prevents freezing.
+
+This strategy works up to a point.
+
+The range of the saguaro is restricted to areas that do not experience more than about 12 to 24 continuous hours of air temperatures below 0℃.
+
+It appears that after 24 hours of freezing air temperatures, not enough heat reserve is left in the saguaro to keep the tissue from freezing.
+

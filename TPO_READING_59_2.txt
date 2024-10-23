@@ -1,0 +1,62 @@
+﻿Dealing with Extreme Cold
+
+There are a number of environments in which organisms are exposed to temperatures below 0℃ and thus the risk of freezing.
+
+In polar regions, terrestrial organisms are exposed to freezing temperatures for most of the year.
+
+In more temperate regions, they may have to tolerate several months of winter when subzero temperatures persist for long periods of time.
+
+High mountains are another place where there is permanent snow and ice, even at the equator.
+
+Exposure to subzero temperatures may occur on a daily and/or seasonal basis.
+
+Endothermic animals (warm-blooded animals) can prevent their bodies from freezing by generating their own heat.
+
+They retain heat because of the insulation provided by feathers or fur and the layer of fat beneath the skin.
+
+Other heat conservation measures include huddling together, recovering heat from exhaled breath, and recovering heat from the extremities of the body.
+
+Endotherms can remain active in the cold if they can find enough food, or they can reduce their metabolism and lie dormant until warmer conditions return.
+
+Although air temperatures may be low, the temperature beneath an insulating layer of snow, under the ground, or at the bottom of a lake may remain above 0℃.
+
+However, most organisms cannot generate their own heat or avoid freezing temperatures.
+
+For them, the choice is to survive ice formation within their bodies or to prevent their bodies from freezing.
+
+Organisms run the risk of freezing at temperatures below the melting point of their body and cell fluids.
+
+There are two main responses: either they can survive ice forming within them (they are freezing tolerant) or they have mechanisms that ensure their fluids remain liquid at temperatures below the freezing point of water and the melting point of their body fluids (they are freeze avoiding).
+
+The strategy an organism uses depends on the freeze.
+
+This may cause its body fluids to freeze by the ice traveling across the cell or body wall or through body openings-a process known as inoculative freezing.
+
+Most organisms surviving low temperatures in such environments are likely to be freezing tolerant since inoculative freezing will cause their bodies to freeze.
+
+However, some may have a structure such as a cuticle, eggshell, cocoon, or sheath that allows them to prevent inoculative freezing by acting as a barrier to the spread of ice into their bodies.
+
+This allows them to maintain their body or cell fluids as liquids, despite the fact that their surfaces are in contact with external ice, and enables them to avoid inoculative freezing.
+
+In a situation where the organism is likely to be exposed to subzero temperatures with little or no water in contact with its surface (many terrestrial insects, for example), it does not have the problem of inoculative freezing, and it is perhaps easier for it to maintain its body fluids in a liquid state at low temperatures and thus survive by avoiding freezing.
+
+The structure and physiology it has developed during its evolutionary history and the particular demands of its environment determine this.
+
+If the organism is living in a wet or damp environment, ice is likely to make contact with its surface when its surroundings...
+
+The two strategies of cold survival are, however, not always mutually exclusive.
+
+There have been a few reports of insects that were apparently freezing tolerant switching to being freeze avoiding.
+
+The overwintering larvae of a beetle from northern Indiana, when studied in the winters of 1977-1979, froze at -8℃ to -12℃ but survived down to -28℃.
+
+When examined again in 1982, however, they froze and were killed at -26℃, apparently switching from a freezing-tolerant to a freeze-avoiding strategy during the intervening years.
+
+There are adaptations in common between freeze-avoiding and freezing-tolerant insects that may make it easy to switch between the two strategies.
+
+It must be said, however, there has been only one other report of an insect, another beetle, displaying a shift in strategy of this sort.
+
+One Antarctic nematode is freezing tolerant when immersed in water but, when free of surface water, there is, of course, no inoculative freezing, and it can survive by avoiding freezing.
+
+The cold-tolerance strategy displayed thus depends on the particular characteristics of the animal's microenvironment.
+

@@ -1,0 +1,78 @@
+﻿The Debate over Spontaneous Generation
+
+Until the second half of the 19th century, many scientists and philosophers believed that some forms of life could arise spontaneously from nonliving matter;
+
+they called this hypothetical process spontaneous generation.
+
+Not much more than 100 years ago, people commonly believed that toads, snakes, and mice could be born of moist soil;
+
+that flies could emerge from manure;
+
+and that maggots, the larvae of flies, could arise from decaying corpses.
+
+A strong opponent of spontaneous generation, the Italian physician Francesco Redi, set out in 1668 to demonstrate that maggots did not arise spontaneously from decaying meat.
+
+Redi filled three jars with decaying meat and sealed them tightly.
+
+Then he arranged three other jars similarly but left them open.
+
+Maggots appeared in the open vessels after flies entered the jars and laid their eggs, but the sealed containers showed no signs of maggots.
+
+Still, Redi's antagonists were not convinced;
+
+they claimed that fresh air was needed for spontaneous generation.
+
+So Redi set up a second experiment, in which three jars were covered with a fine net instead of being sealed.
+
+No larvae appeared in the net-covered jars, even though air was present.
+
+Maggots appeared only when flies were allowed to leave their eggs on the meat.
+
+Redi's results were a serious blow to the long-held belief that large forms of life could arise from nonlife.
+
+However, many scientists still believed that tiny microorganisms were simple enough to be generated from nonliving materials.
+
+The case for spontaneous generation of microorganisms seemed to be strengthened in 1745 when John Needham, an Englishman, found that even after he heated nutrient fluids (chicken broth and corn broth) before pouring them into covered flasks, the cooled solutions were soon teeming with microorganisms.
+
+Needham claimed that microbes developed spontaneously from the fluids.
+
+Twenty years later, Lazzaro Spallanzani, an Italian scientist, suggested that microorganisms from the air probably had entered Needham's solutions after they were boiled.
+
+Spallanzani showed that nutrient fluids heated after being sealed in a flask did not develop microbial growth.
+
+Needham responded by claiming the "vital force" necessary for spontaneous generation had been destroyed by the heat and was kept out of the flasks by the seals.
+
+This intangible "vital force" was given all the more credence shortly after Spallanzani's experiment when Laurent Lavoisier showed the importance of oxygen to life.
+
+Spallanzani's observations were criticized on the grounds that there was not enough oxygen in the sealed flasks to support microbial life.
+
+The issue was still unresolved in 1858 when the German scientist Rudolf Virchow challenged spontaneous generation with the concept of biogenesis, the claim that living cells can arise only from preexisting living cells.
+
+Arguments about spontaneous generation continued until 1861 when the work of the French scientist Louis Pasteur ended the debate.
+
+With a series of ingenious and persuasive experiments, Pasteur demonstrated that microorganisms are present in the air and can contaminate sterile solutions, but air itself does not create microbes.
+
+He filled several short-necked flasks with beef broth and then boiled their contents.
+
+Some were then left open and allowed to cool.
+
+In a few days, these flasks were found to be contaminated with microbes.
+
+The other flasks, sealed after boiling, were free of microorganisms.
+
+From these results, Pasteur reasoned that microbes in the air were the agents responsible for contaminating nonliving matter such as the broths in Needham's flasks.
+
+Pasteur next placed broth in open-ended long-necked flasks and bent the necks into S-shaped curves.
+
+The contents of these flasks were then boiled and cooled.
+
+The broth in the flasks did not decay and showed no signs of life, even after months.
+
+Pasteur's unique design allowed air to pass into the flask, but the curved neck trapped any airborne microorganisms that might have contaminated the broth.
+
+Pasteur showed that microorganisms can be present in nonliving matter-on solids, in liquids, and in the air.
+
+His work provided evidence that microorganisms cannot originate from mysterious forces present in nonliving materials.
+
+Rather, any appearance of "spontaneous" life in nonliving solutions can be attributed to microorganisms that were already present in the air or in the fluids themselves.
+

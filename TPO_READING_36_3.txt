@@ -1,0 +1,66 @@
+﻿Industrial Melanism: The Case of the Peppered Moth
+
+The concept of natural selection posits that organisms within a species possessing traits that enhance survival are more likely to survive and pass on these traits to their offspring.
+
+As organisms with favorable traits have a higher chance of survival compared to those lacking these traits, future generations of the species are expected to have a greater proportion of individuals with these advantageous characteristics.
+
+One of the extensively studied instances of natural selection in action is the change in coloration observed in certain populations of the peppered moth, Biston betularia, in industrial regions of Europe over the past century.
+
+Initially, the moths were uniformly pale gray or whitish in color, with dark-colored (melanic) individuals being rare and constituting less than 2 percent of the population.
+
+However, over several decades, the proportion of dark-colored moths increased significantly in some populations, eventually dominating the peppered moth populations in specific areas, particularly those characterized by intense industrialization such as the Ruhr Valley in Germany and the Midlands in England.
+
+The release of black soot into the environment from industrial coal emissions contributed to this change.
+
+It is important to note that the rise of dark-colored forms was not due to genetic mutations caused by industrial pollution.
+
+For instance, caterpillars that fed on soot-covered leaves did not give rise to dark-colored adults.
+
+Rather, pollution facilitated the survival of dark forms on trees covered in soot.
+
+In non-industrial areas, melanics were swiftly eliminated through adverse selection as they were easily spotted by birds.
+
+This phenomenon, characterized by an increased frequency of dark-colored mutants in polluted regions, is known as industrial melanism.
+
+In North America, a similar story unfolded with another moth, the swettaria form of Biston cognataria, which was first observed in industrialized areas like Chicago and New York City in the early 1900s.
+
+By 1961, it constituted over 90 percent of the population in certain parts of Michigan.
+
+The hypothesis that natural selection accounted for the changing ratio of dark- to light-colored peppered moths was formulated in the 1950s by H. B. D. Kettlewell from Oxford University.
+
+If natural selection was indeed the explanation, then there should be different survival rates for dark- and light-colored moths.
+
+To test this hypothesis, Kettlewell released thousands of moths, both light and dark, each marked with a paint spot, into rural and industrialized areas.
+
+In the non-industrial region of Dorset, he recaptured 14.6 percent of the pale forms but only 4.7 percent of the dark forms.
+
+Conversely, in the industrialized area of Birmingham, the situation was reversed: 13 percent of pale forms and 27.5 percent of dark forms were recaptured.
+
+Evidently, some environmental factor was responsible for the higher survival rates of dark moths.
+
+Birds served as predators of peppered moths.
+
+Kettlewell proposed that the normal pale forms were difficult to spot when resting on lichen-covered trees, whereas dark forms were more conspicuous.
+
+In industrialized areas, pollution destroyed lichens, causing tree barks to darken, and making it harder for birds to detect dark moths.
+
+As an experiment, Kettlewell set up concealed observation positions and observed birds voraciously consuming moths placed on tree trunks of a contrasting color.
+
+This experiment seemingly demonstrated the action of natural selection, with birds acting as the selecting force, resulting in a small yet highly significant evolutionary change.
+
+While not all researchers have been fully convinced that natural selection by birds is the sole explanation for the observed frequencies of dark and light peppered moths, more recent data have provided additional support for Kettlewell's ideas regarding natural selection.
+
+The light-colored form of the peppered moth is experiencing a resurgence.
+
+In Britain, the Clean Air Act was enacted in 1965.
+
+Sir Cyril Clarke has been trapping moths at his residence in Liverpool, Merseyside, since 1959.
+
+Prior to approximately 1975, 90 percent of the moths captured were dark, but since then, there has been a sharp decline in melanic forms.
+
+In 1989, only 29.6 percent of the captured moths were melanic.
+
+The average concentration of sulphur dioxide pollution decreased from around 300 micrograms per cubic meter in 1970 to less than 50 micrograms per cubic meter in 1975, and has remained relatively stable since then.
+
+If the spread of the light-colored form of the moth continues at the same rate as the spread of the melanic form in the last century, it is anticipated that the melanic form will once again become an infrequent resident of the Liverpool area.
+

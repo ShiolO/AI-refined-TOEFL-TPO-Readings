@@ -1,0 +1,70 @@
+﻿Earth's Core
+
+Knowledge of Earth's deep interior is derived from the study of the waves produced by earthquakes, called seismic waves.
+
+Among the various kinds of seismic waves are primary waves (P-waves) and secondary waves (S-waves).
+
+Primary and secondary waves pass deep within Earth and therefore are the most instructive.
+
+Study of abrupt changes in the characteristics of seismic waves at different depths provides the basis for a threefold division of Earth into a central core, a thick, overlying mantle, and a thin, enveloping crust.
+
+Sudden changes in seismic wave velocities and angles of transmission are termed discontinuities.
+
+One of the discontinuities is the Gutenberg discontinuity, which is located nearly halfway to the center of Earth at a depth of 2,900 kilometers and marks the outer boundary of Earth's core.
+
+At that depth, the S-waves cannot propagate, while at the same time P-wave velocity is drastically reduced.
+
+S-waves are unable to travel through fluids.
+
+Thus, if S-waves were to encounter a fluid-like region of Earth's interior, they would be absorbed there and would not be able to continue.
+
+Geophysicists believe this is what happens to S-waves as they enter the outer core.
+
+As a result, the S-waves generated on one side of Earth fail to appear at seismograph stations on the opposite side of Earth, and this observation is the principal evidence of an outer core that behaves as a fluid.
+
+Unlike S-waves, P-waves are able to pass through liquids.
+
+They are, however, abruptly slowed and sharply refracted (bent) as they enter a fluid medium.
+
+Therefore, as P-waves encounter the molten outer core of Earth, their velocity is reduced and they are refracted downward.
+
+The radius of the core is about 3,500 kilometers.
+
+The inner core is solid and has a radius of about 1,220 kilometers, which makes this inner core slightly larger than the Moon.
+
+Most geologists believe that the inner core has the same composition as the outer core and that it can only exist as a solid because of the enormous pressure at the center of Earth.
+
+Evidence of the existence of a solid inner core is derived from the study of hundreds of records of seismic waves produced over several years.
+
+These studies showed that the inner core behaves seismically as if it were a solid.
+
+Earth has an overall density of 5.5 grams per cubic centimeter, yet the average density of rocks at the surface is less than 3.0 grams per cubic centimeter.
+
+This difference indicates that materials of high density must exist in the deep interior of the planet to achieve the 5.5 grams per cubic centimeter overall density.
+
+Under the extreme pressure conditions that exist in the region of the core, iron mixed with nickel would very likely have the required high density.
+
+Laboratory experiments, however, suggest that a highly pressurized iron-nickel alloy might be too dense and that minor amounts of elements such as silicon, sulfur, carbon, or oxygen may also be present to lighten the core material.
+
+Support for the theory that the core is composed of iron (85 percent) with lesser amounts of nickel has come from the study of meteorites.
+
+Many of these samples of solar system materials are iron meteorites that consist of metallic iron alloyed with a small percentage of nickel.
+
+Some geologists suspect that iron meteorites may be fragments from the core of a shattered planet.
+
+The presence of iron meteorites in our solar system suggests that the existence of an iron-nickel core for Earth is plausible.
+
+There is further evidence that Earth may have a metallic core.
+
+Anyone who understands the functioning of a compass is aware that Earth has a magnetic field.
+
+The planet itself behaves as if there was a great bar magnet embedded within it.
+
+A magnetic field is developed by the flow of electric charges and requires good electrical conductors.
+
+Silicate rocks, such as those in the mantle and crust, do not conduct electricity very well, whereas metals such as iron and nickel are good conductors.
+
+Heat-driven movements in the outer core, coupled with movements induced by Earth's spin, are thought to provide the necessary flow of electrons (very small particles that carry a negative charge) around the inner core that produces the magnetic field.
+
+Without a metallic core, Earth's magnetic field would not be possible.
+
