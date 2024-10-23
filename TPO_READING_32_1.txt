@@ -1,0 +1,50 @@
+﻿Plant Colonization
+
+Colonization is a process through which plants can alter the ecology of a particular site.
+
+It comprises two components: invasion and survival.
+
+The rate at which a site is colonized by plants depends on the arrival rate of individual organisms (seeds, spores, immature or mature individuals) and their ability to establish and survive.
+
+Successful colonization relies heavily on the availability of a suitable site, where competition and other negative interactions have been reduced due to disturbances like fire or tree cutting.
+
+This allows the invading species to establish themselves.
+
+Moist and fertile sites are likely to be colonized more rapidly compared to dry and infertile sites, as the latter pose challenges for survival.
+
+For instance, a fertile, plowed field quickly becomes invaded by various weed species, whereas a neighboring construction site, where the soil has been compacted or removed, remains devoid of vegetation for months or even years, despite receiving the same amount of seeds as the plowed field.
+
+The rates of invasion and extinction vary significantly among different plant species.
+
+Pioneer species, which are only present in the early stages of colonization, tend to have high invasion rates due to their production of a large number of reproductive propagules (seeds, spores, etc.) and efficient means of dispersal, usually through wind.
+
+If colonizing plants produce short-lived reproductive propagules, they must compensate by producing a large quantity of them or have an efficient means of dispersal to suitable habitats.
+
+Many plants rely on wind for dispersal and produce abundant quantities of small, relatively short-lived seeds to increase the chances of reaching suitable habitats.
+
+However, wind is not always a reliable means of reaching the appropriate type of habitat.
+
+Some plants have evolved alternative strategies, such as producing fewer but larger seeds that are dispersed by birds or small mammals to suitable sites, or producing long-lived seeds.
+
+Many forest plants seem to exhibit the latter adaptation, with viable seeds of pioneer species found in large numbers on some forest floors.
+
+For example, a 100-year-old Douglas fir/western hemlock forest in coastal British Columbia had as many as 1,125 viable seeds per square meter, and most of the germinated seeds were from pioneer species.
+
+The rapid colonization of disturbed sites is partly attributed to the presence of a large seed bank on the forest floor.
+
+Colonizing species have developed a well-defined adaptation in the form of a high degree of variation in germination.
+
+Seeds of a particular species exhibit a wide range of germination dates, increasing the likelihood that some seeds will germinate during favorable environmental conditions.
+
+This is particularly important for species colonizing environments without existing vegetation to mitigate climatic extremes and where there may be significant climatic diversity.
+
+The succession of species in plant communities, i.e., the temporal sequence of species appearance and disappearance, depends on events occurring at different stages of a species' life history.
+
+Variation in invasion and growth rates plays a crucial role in determining succession patterns, especially in secondary succession.
+
+The initial colonizers of a site are typically species that produce abundant seeds that are successfully dispersed to new sites.
+
+These species tend to grow rapidly and quickly dominate the new sites, outcompeting other species with lower invasion and growth rates.
+
+Consequently, the first community to occupy a disturbed area is composed of species with the highest invasion rates, while subsequent stages may consist of plants with similar survival rates but lower invasion rates.
+

@@ -1,0 +1,68 @@
+﻿Planets in Our Solar System
+
+The Sun is the hub of a vast rotating system consisting of nine planets, their satellites, and numerous small bodies, including asteroids, comets, and meteoroids.
+
+Approximately 99.85 percent of the mass of our solar system is contained within the Sun, while the planets collectively make up most of the remaining 0.15 percent.
+
+The planets, in order of their distance from the Sun, are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto.
+
+Under the influence of the Sun's gravitational force, each planet maintains an elliptical orbit, and they all travel in the same direction.
+
+The planets in our solar system can be divided into two groups: the terrestrial (Earth-like) planets (Mercury, Venus, Earth, and Mars) and the Jovian (Jupiter-like) planets (Jupiter, Saturn, Uranus, and Neptune).
+
+Pluto is not included in either category because its significant distance from Earth and its small size make its true nature a mystery.
+
+The most noticeable difference between the terrestrial and Jovian planets is their size.
+
+Earth, the largest terrestrial planet, has a diameter only one-quarter as great as the diameter of Neptune, the smallest Jovian planet, and its mass is only one-seventeenth as great.
+
+Therefore, the Jovian planets are often referred to as giants.
+
+Additionally, due to their relative positions, the four Jovian planets are known as the outer planets, while the terrestrial planets are known as the inner planets.
+
+There seems to be a correlation between the positions of these planets and their sizes.
+
+Density and composition are other dimensions in which the two groups differ significantly.
+
+The densities of the terrestrial planets average about five times the density of water, whereas the Jovian planets have densities that average only 1.5 times the density of water.
+
+Saturn, one of the outer planets, has a density of only 0.7 times that of water, which means it would float in water.
+
+Variations in the composition of the planets are primarily responsible for the density differences.
+
+The substances that make up both groups of planets are divided into three categories-gases, rocks, and ices-based on their melting points.
+
+The terrestrial planets consist mostly of rocks: dense rocky and metallic material, with minor amounts of gases.
+
+On the other hand, the Jovian planets contain a large percentage of the gases hydrogen and helium, along with varying amounts of ices, mostly water, ammonia, and methane ices.
+
+The Jovian planets have very thick atmospheres consisting of varying amounts of hydrogen, helium, methane, and ammonia.
+
+In comparison, the terrestrial planets have, at best, meager atmospheres.
+
+A planet's ability to retain an atmosphere depends on its temperature and mass.
+
+Simply put, a gas molecule can "evaporate" from a planet if it reaches a speed known as the escape velocity.
+
+For Earth, this velocity is 11 kilometers per second.
+
+Any object, including a rocket, must reach this speed before it can leave Earth and enter space.
+
+The Jovian planets, due to their greater masses and higher surface gravities, have higher escape velocities (21-60 kilometers per second) than the terrestrial planets.
+
+Consequently, it is more challenging for gases to "evaporate" from them.
+
+Additionally, because the molecular motion of a gas depends on temperature, even the lightest gases are unlikely to acquire the necessary speed to escape at the low temperatures of the Jovian planets.
+
+On the other hand, a relatively warm body with a small surface gravity, such as Earth's moon, is unable to retain even the heaviest gas and thus lacks an atmosphere.
+
+The slightly larger terrestrial planets-Earth, Venus, and Mars-retain some heavy gases like carbon dioxide, but their atmospheres still make up only an infinitesimally small portion of their total mass.
+
+The orderly nature of our solar system leads most astronomers to conclude that the planets formed at essentially the same time and from the same material as the Sun.
+
+It is hypothesized that the primordial cloud of dust and gas from which all the planets are thought to have condensed had a composition somewhat similar to that of Jupiter.
+
+However, unlike Jupiter, the terrestrial planets today are nearly devoid of light gases and ices.
+
+The explanation may be that the terrestrial planets were once much larger and richer in these materials but eventually lost them due to their proximity to the Sun, which resulted in relatively high temperatures.
+

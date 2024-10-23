@@ -1,0 +1,68 @@
+﻿The Surface of Mars
+
+The surface of Mars exhibits a wide range of geological features, including enormous volcanoes-the largest known in the solar system-and extensive impact cratering.
+
+Three very large volcanoes are located on the Tharsis bulge, a massive geological region near the equator of Mars.
+
+To the northwest of Tharsis lies the largest volcano of all: Olympus Mons, standing at a height of 25 kilometers and measuring approximately 700 kilometers in diameter at its base.
+
+The three large volcanoes on the Tharsis bulge are slightly smaller, reaching a height of "only" 18 kilometers.
+
+None of these volcanoes formed as a result of plate collisions in the Martian crust, as there is no plate motion on Mars.
+
+Instead, they are shield volcanoes, characterized by broad, gently sloping sides formed by molten rock.
+
+All four volcanoes exhibit distinct lava channels and other flow features similar to those found on shield volcanoes on Earth.
+
+Images of the Martian surface reveal hundreds of volcanoes, with most of the largest ones associated with the Tharsis bulge, while many smaller ones are found in the northern plains.
+
+The significant height of Martian volcanoes is a direct consequence of the planet's low surface gravity.
+
+As lava flows and spreads to form a shield volcano, the eventual height of the volcano depends on its ability to support its own weight.
+
+With lower gravity, the weight is reduced, resulting in greater mountain height.
+
+It is not coincidental that Maxwell Mons on Venus and the Hawaiian shield volcanoes on Earth reach a similar height of about 10 kilometers above their respective bases.
+
+Earth and Venus have comparable surface gravity.
+
+Mars, with a surface gravity only 40 percent that of Earth, allows volcanoes to rise approximately 2.5 times higher.
+
+Are the Martian shield volcanoes still active?
+
+Scientists lack direct evidence of recent or ongoing eruptions, but if these volcanoes were active as recently as 100 million years ago (an estimate based on the extent of impact cratering on their slopes), some of them may still be intermittently active.
+
+However, millions of years may pass between eruptions.
+
+Another prominent feature of Mars's surface is cratering.
+
+The Mariner spacecraft discovered that both the surface of Mars and its two moons are marked by impact craters formed by meteoroids from space.
+
+Similar to our Moon, smaller craters on Mars are often filled with surface material, mostly dust, confirming Mars as a dry desert world.
+
+However, Martian craters fill in at a considerably faster rate compared to their lunar counterparts.
+
+On the Moon, ancient craters less than 100 meters across (with depths of about 20 meters) have been erased primarily by meteoritic erosion.
+
+On Mars, there are relatively few craters smaller than 5 kilometers in diameter.
+
+The Martian atmosphere acts as an efficient erosive agent, with Martian winds transporting dust and erasing surface features at a faster pace than meteoritic impacts alone.
+
+Similar to the Moon, the extent of large impact cratering (craters too large to have been filled in by erosion since their formation) serves as an age indicator for the Martian surface.
+
+Age estimates obtained in this manner range from four billion years for Mars's southern highlands to a few hundred million years in the youngest volcanic regions.
+
+The detailed appearance of Martian impact craters provides valuable information about conditions just beneath the planet's surface.
+
+Martian craters are surrounded by ejecta, debris formed as a result of impacts, which differs significantly from its lunar counterparts.
+
+A comparison between the Copernicus crater on the Moon and the (fairly typical) Yuty crater on Mars illustrates these differences.
+
+The ejecta surrounding the lunar crater aligns with expectations of an explosion ejecting a large volume of dust, soil, and boulders.
+
+However, the ejecta on Mars gives the distinct impression of a liquid that has splashed or flowed out of the crater.
+
+Geologists believe that this fluidized ejecta indicates the presence of a layer of permafrost or water ice just a few meters below the surface.
+
+The explosive impacts heated and liquefied the ice, resulting in the fluid appearance of the ejecta.
+

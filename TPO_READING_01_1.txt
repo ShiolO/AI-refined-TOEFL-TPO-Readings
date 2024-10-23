@@ -1,0 +1,72 @@
+﻿Groundwater
+
+Groundwater is the term used to describe water that saturates the ground, filling all the available spaces.
+
+The most abundant type of groundwater is meteoric water, which circulates as part of the water cycle.
+
+Ordinary meteoric water is water that has seeped into the ground from the surface, including precipitation (rain and snow) and water from lakes and streams.
+
+It remains there, sometimes for extended periods, before resurfacing.
+
+Initially, it may seem incredible that there is enough space in the solid ground beneath our feet to hold all this water.
+
+However, the necessary space exists in various forms.
+
+The most common spaces are found among the particles, such as sand grains and tiny pebbles, in loose, unconsolidated sand and gravel.
+
+These materials are often present beneath the soil and can be found wherever fast-flowing rivers carrying coarse sediment once existed.
+
+For instance, during the last ice age, as the massive ice sheets covering North America gradually melted, large volumes of water flowed from them.
+
+This water, known as glacial outwash, was always laden with pebbles, gravel, and sand, which were deposited as the flow slowed down.
+
+This process continues to occur on a smaller scale today whenever a sediment-laden river or stream emerges from a mountain valley onto relatively flat land, depositing its load as the current slows.
+
+The water typically spreads out fanwise, forming a smooth, fan-shaped slope as it deposits the sediment.
+
+Sediments are also deposited when a river slows upon entering a lake or the sea.
+
+Initially, these sediments are located on the lake or seafloor, but they may eventually be found inland if the sea level falls or the land rises.
+
+Such beds can sometimes be thousands of meters thick.
+
+In lowland areas, almost any spot on the ground may overlay what was once the bed of a river that has since become buried by soil.
+
+If these spots are now below the water table (the upper surface of the groundwater), the gravels and sands of the former riverbed, as well as its sandbars, will be saturated with groundwater.
+
+Now let's consider consolidated (or cemented) sediments, which also contain millions of tiny water-holding pores.
+
+This is because the gaps among the original grains are often not completely filled with cementing chemicals.
+
+Additionally, parts of the original grains may dissolve due to percolating groundwater, either during consolidation or at any time afterward.
+
+As a result, sandstone, for example, can be as porous as the loose sand from which it originated.
+
+Therefore, a portion of the total volume of any sediment, whether loose or cemented, consists of empty space.
+
+Most crystalline rocks are much more solid, although basalt, a form of solidified volcanic lava, is an exception.
+
+Basalt can sometimes be filled with tiny bubbles, making it highly porous.
+
+The proportion of empty space in a rock is referred to as its porosity.
+
+However, it is important to note that porosity is not the same as permeability, which measures the ease with which water can flow through a material.
+
+Permeability depends on the sizes of the individual cavities and the crevices that connect them.
+
+When a sample of water-saturated sediment or rock is placed in a suitable dry location, much of the water will drain from it.
+
+However, some water will remain, clinging to all solid surfaces.
+
+It is held there by the force of surface tension, which prevents water from instantly draining from any wet surface and leaving it completely dry.
+
+Therefore, the total volume of water in a saturated sample should be considered as consisting of water that can drain away and water that cannot.
+
+The relative amount of these two types of water varies significantly from one type of rock or sediment to another, even if their porosities are the same.
+
+This variation depends on pore size.
+
+If the pores are large, the water in them will exist as drops that are too heavy for surface tension to hold, and it will drain away.
+
+However, if the pores are small enough, the water in them will exist as thin films that are too light to overcome the force of surface tension, resulting in firm retention of the water.
+
