@@ -1,0 +1,62 @@
+﻿Why Snakes Have Forked Tongues
+
+The forked tongue of snakes has intrigued people for millennia, inspiring many hypotheses.
+
+In many cultures and religions, the forked tongue symbolizes malevolence and deceit.
+
+The first person known to inquire about the functional significance of the forked tongue was Aristotle;
+
+he suggested that it would double the pleasure of sensations of taste.
+
+By the beginning of the twentieth century, the consensus was that the snake's tongue is a tactile organ;
+
+that is, the snake uses it to tap the ground much as a blind person uses a cane.
+
+In 1920, Browman suggested what seemed to be a winning hypothesis: When the snake retracts its tongue, the tips (or tines) of the forked tongue are inserted into openings on both sides of the roof of the mouth;
+
+through these openings, chemical stimuli reach special organs that help snakes detect smells-the vomeronasal organs (VNO).
+
+These organs are highly developed in snakes, lizards, and many mammals.
+
+They are a second system for detecting smells that appears to have evolved specifically to detect pheromones, the chemical signals that animals secrete as messages to other animals of their species.
+
+Browman suggested that the forked tongue flicks out, picking up chemical signals, and then delivers these to the VNO.
+
+This hypothesis was widely accepted into the 1980s.
+
+Then X-ray movie studies of tongue flicks in snakes and lizards with forked tongues disproved the hypothesis;
+
+they showed that when the tongue is withdrawn into the mouth, it enters a sheath and the tips do not go into the openings to the VNO.
+
+Instead, the chemical molecules are deposited on pads at the bottom of the mouth, and closing the mouth presses the pads and molecules against the VNO openings.
+
+If the tongue is not forked to fit into the VNO, then what function could the forked shape serve?
+
+Schwenk proposes a solution that encompasses observations from several fields-animal behavior, ecology, sensory physiology, and neuroanatomy.
+
+He hypothesizes that the forked tongue allows the snake to sense chemical stimuli at two points simultaneously, thereby giving it the ability to detect differences in an odor trail.
+
+Obtaining two simultaneous readings enhances the ability of the snake to detect the edges of odor trails, and thus to follow pheromone trails accurately.
+
+This ability is important in seeking both prey and mates.
+
+This spatial chemical perception is like other systems for spatial perception that are based on simultaneous stimulation of two separated sense organs-for example, auditory localization, which depends on differential stimulation at the two ears.
+
+Similarly, the use of the two eyes permits stereovision.
+
+Several kinds of evidence support the hypothesis that forked tongues evolved as chemosensory edge detectors to enhance the ability to follow odor trails: (1) Snakes and lizards spread the tines of their tongue apart when they retrieve odor molecules, then draw the tines together when retracting the tongue.
+
+The greater the distance between sampling points, the better the animals sample differences within an odor trail.
+
+(2) Lizards that forage widely have forked tongues, whereas lizard species without forked tongues tend not to forage widely.
+
+(3) Forked tongues have evolved independently at least twice in different families of reptiles, indicating their value as an adaptation.
+
+(4) In the snake nervous system, each tine of the tongue is linked to a nucleus in the other side of the brain, and the two nuclei are linked across the two hemispheres.
+
+This arrangement is similar to the anatomy of auditory centers in mammals and birds that permits the computation of differences between what one ear hears and what the other ear hears and thus mediates auditory localization.
+
+Species in other orders have also evolved paired chemical receptors to guide individuals to mates or prey.
+
+For example, male gypsy moths have large, elaborate, odor-detecting antennae with which they track potential mates over large distances, and the ant nest beetle has spoon-shaped antennae extending from each side of the head with which it detects and follows the pheromones of the ants that are its food.
+

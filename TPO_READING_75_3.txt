@@ -1,0 +1,70 @@
+﻿Seismic Waves
+
+Seismic waves, energy waves produced by earthquakes, allow scientists to determine the location, thickness, and properties of Earth's internal zones.
+
+They are generated when rock masses are suddenly disturbed, such as when they break or rupture.
+
+Vibrations spread out in all directions from the source of the disturbance, traveling at different speeds through parts of Earth's crust and interior that differ in chemical composition and physical properties.
+
+The principal categories of these waves are primary, secondary, and surface.
+
+All three types of waves are recorded on an instrument called a seismograph.
+
+Primary waves, or P-waves, are the fastest of the three types of waves and therefore the first to arrive at a seismograph station after an earthquake.
+
+They travel through the upper crust of Earth at speeds of 4 to 5 kilometers per second, but near the base of the crust, they speed along at 6 or 7 kilometers per second.
+
+In these primary waves, pulses of energy are transmitted as a succession of compressions and expansions that parallel the direction of propagation of the wave itself.
+
+Thus, a given segment of rock set in motion during an earthquake is driven into its neighbor and bounces back.
+
+The neighbor strikes the next particle and rebounds, and subsequent particles continue the motion.
+
+Vibrational energy is an accordion-like push-pull movement that can be transmitted through solids, liquids, and gases.
+
+Of course, the speed of P-wave transmission will differ in materials of different density and elastic properties.
+
+Secondary waves, or S-waves, travel 1 to 2 kilometers per second slower than P-waves.
+
+Unlike the movement of P-waves, rock vibration in secondary waves is at right angles to the direction of propagation of the energy.
+
+This type of wave is easily demonstrated by tying a length of rope to a hook and then shaking the free end.
+
+A series of undulations will develop in the rope and move toward the hook, that is, in the direction of propagation.
+
+Any given particle along the rope, however, will move up and down in a direction perpendicular to the direction of propagation.
+
+It is because of their more complex motion that S-waves travel more slowly than P-waves.
+
+They are the second group of oscillations to arrive at a seismograph station.
+
+Unlike P-waves, secondary waves will not pass through liquids or gases.
+
+Both P- and S-waves are sometimes also termed body waves because they can penetrate deep into the interior or body of our planet.
+
+Body waves travel faster in rocks of greater elasticity, and their speeds therefore increase steadily as they move downward into more elastic zones of Earth's interior and then decrease as they begin to make their ascent toward Earth's surface.
+
+The change in velocity that occurs as body waves invade rocks of different elasticity results in a bending or refraction of the wave.
+
+The many small refractions cause the body waves to assume a curved travel path through Earth.
+
+Not only are body waves subjected to refraction, but they may also be partially reflected off the surface of a dense rock layer in much the same way as light is reflected off a polished surface.
+
+Many factors influence the behavior of body waves.
+
+An increase in the temperature of rocks through which body waves are traveling will cause a decrease in velocity, whereas an increase in confining pressure will cause a corresponding increase in wave velocity.
+
+In a fluid where no rigidity exists, S-waves cannot propagate, and P-waves are markedly slowed.
+
+Surface waves are large-motion waves that travel through the outer crust of Earth.
+
+Their pattern of movement resembles that of waves caused when a pebble is tossed into the center of a pond.
+
+They develop whenever P- or S-waves disturb the surface of Earth as they emerge from the interior.
+
+Surface waves are the last to arrive at a seismograph station.
+
+They are usually the primary cause of the destruction that can result from earthquakes affecting densely populated areas.
+
+This destruction results because surface waves are channeled through the thin outer region of Earth, and their energy is less rapidly scattered into the large volumes of rock traversed by body waves.
+

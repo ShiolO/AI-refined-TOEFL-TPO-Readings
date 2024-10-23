@@ -1,0 +1,70 @@
+﻿The Impact Origin of Lunar Craters
+
+From their discovery in 1609 until recently, lunar craters were almost unanimously thought to have volcanic origins, even though the topography of the Moon and its craters had been studied minutely by generations of observers.
+
+Dissenting voices, such as that of Robert Hooke, who postulated in 1665 that they were formed by the impact of meteors, did little to sway the majority opinion.
+
+The most serious challenge to the volcanic-formation hypothesis was made in 1893 by the geologist G. K. Gilbert.
+
+After analyzing the depth-to-diameter ratios of craters, Gilbert suggested that the craters could have been formed only by the impact of meteors.
+
+The central peaks that were commonly observed resulted from rebound of rock, in a similar manner to liquids (think of drops of water hitting a puddle).
+
+Bright rays surrounded many craters that were formed from material flung out during the impact-impact ejecta.
+
+Although impacts with a surface can occur at all angles, from less than 5° to 90°, early experiments suggested that only vertical (90°) impacts were capable of producing circular craters.
+
+So the main argument against an impact mechanism for lunar crater formation was that only circular craters could be seen on the Moon.
+
+However, Gilbert himself showed that the average impact angle was 45°-in fact, very few impacts were close to vertical.
+
+In 1916 E J. ?pik published work that recognized that the impact of meteors at very high velocities would be fundamentally different from the impact at low velocities created in early laboratory experiments.
+
+Such high-velocity impacts would have a similar effect to an explosion and craters would be circular even at low impact angles.
+
+Nevertheless, the volcanic hypothesis remained intact, and there was significant unwillingness amongst the scientific community about accepting impact cratering.
+
+This began to change in the 1960s with the work of the American geologist Gene Shoemaker, who made a lifetime study of cratering.
+
+Of the 170 known impact craters on Earth, Meteor Crater in Arizona was one of the first to be recognized as being formed from an impact.
+
+In 1906 D. M. Barringer had provided good evidence for impact formation.
+
+However, Meteor Crater was not universally accepted as an impact crater until the 1960s.
+
+Its impact origin was finally demonstrated in papers published in 1960 and 1963 by Shoemaker.
+
+Three lines of evidence show that an impact, and not a volcanic eruption, formed Meteor Crater.
+
+First, as Barringer had recognized, many large fragments from an impact have been found on the desert plains surrounding Meteor Crater.
+
+Impact structures that are larger than Meteor Crater do not usually preserve fragments of the original projectiles because they vaporize on impact.
+
+In addition, most volcanic craters are formed by sustained compression of volcanic gases which blast out large volumes of fragments.
+
+Volcanic ejecta form simple aprons around craters, the first-erupted materials at the bottom and the last at the top.
+
+Shoemaker's field studies showed that a completely different situation exists at Meteor Crater, where the ejecta form an inverted flap flung out and overturned in a single blast.
+
+Thus, a drill hole through the ejecta on the rim would pass through layers of the same material twice.
+
+In Shoemaker's words, the strata appeared to "have been peeled back from the area of the crater, somewhat like petals of a flower blossoming.
+
+Similar structures are observed in laboratory experiments involving hypervelocity impacts.
+
+The final piece of evidence comes from an investigation of the effects of the intense pressures involved in an impact.
+
+At Meteor Crater, shattered target rocks are cemented together by glass at depths of 200-400 meters.
+
+The glass is formed by melting of the target during the impact.
+
+Melting occurs principally as a result of the very high pressures involved during an impact, and because the pressure is applied almost instantaneously, it is referred to as shock pressure.
+
+Unusual high-pressure minerals are often found in the rocks affected by impact.
+
+These minerals are produced by shock pressure during the impact.
+
+In 1962 Shoemaker made a case for the impact formation of Copernicus Crater, one of the most prominent craters on the near side of the Moon.
+
+Before the decade was out, most scientists had come to accept that lunar craters were formed by impact rather than volcanism.
+

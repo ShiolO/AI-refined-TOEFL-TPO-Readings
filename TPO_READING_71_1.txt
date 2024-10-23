@@ -1,0 +1,60 @@
+﻿Electrical Energy from the Ocean
+
+Solar energy reaching Earth is responsible for the differential heating of the atmosphere and, thus, air circulation as wind.
+
+Some of the energy of wind is transferred to the oceans, where it causes waves and is partly responsible for oceanic currents, although Earth's rotation also plays a role in currents.
+
+Gravitational attraction between Earth and the Sun and Moon generates tides and, along with Earth's rotation, causes most coastal areas to experience a twice-daily rise and fall of sea level.
+
+In short, the oceans possess a tremendous reservoir of largely untapped energy.
+
+If we could effectively harness the energy possessed by the oceans, an almost limitless, largely nonpolluting energy supply would be ensured.
+
+Unfortunately, ocean energy is diffuse, meaning that the amount of energy for a given volume of water is small and thus difficult to concentrate and use.
+
+Several ways of using ocean energy are being considered or are under development, and one is currently in use, although it accounts for only a tiny proportion of all energy production.
+
+Of the several sources of ocean energy-temperature differences with depth, currents, waves, and tides-only the last shows much promise for the near future.
+
+Ocean water at depth might be as much as 25℃ colder than surface water, a difference that allows for ocean thermal energy conversion (OTEC).
+
+OTEC exploits this temperature difference to run turbines and generate electricity.
+
+The amount of energy available is enormous, but a number of practical problems must be solved before it can be used.
+
+For one thing, any potential site must be close to land and also have a sufficiently rapid change with depth to result in the required temperature difference.
+
+Furthermore, enormous quantities of warm and cold seawater would have to circulate through an electrical-generating plant, thus requiring that large surface areas be devoted to this purpose.
+
+The concept of OTEC is more than a century old, but despite several decades of research, no commercial OTEC plants are operating or even under construction, although small experimental ones have been tested in Hawaii and Japan.
+
+Wind-generated ocean currents, such as the Gulf Stream, which flows along the east coast of North America, also possess energy that might be tapped to generate electricity.
+
+Unlike streams that can be dammed to impound a reservoir, any electrical generating facility exploiting oceanic currents would have to concentrate currents' diffuse energy and contend with any unpredictable changes in direction.
+
+In addition, whereas hydroelectric generating plants on land depend on the rapid movement of water from a higher elevation to the turbines, the energy of ocean currents comes from their flow velocity, which is at most a few kilometers per hour.
+
+The most obvious form of energy in the oceans lies in waves.
+
+Harnessing wave energy and converting it to electricity is not a new idea, and it has been used on an extremely limited scale.
+
+Unfortunately, the energy possessed by a wave is distributed along its crest and is difficult to concentrate.
+
+Furthermore, any facility would have to be designed to withstand the effects of storms and saltwater corrosion.
+
+The Japanese have developed wave-energy devices to power lighthouses and buoys, and a facility capable of providing power to about 300 homes began operating in Scotland during September 2000.
+
+Perhaps tidal power is the most promising form of ocean energy.
+
+In fact, it has been used for centuries in some coastal areas to run mills, but its use at present for electrical generation is limited.
+
+Most coastal areas experience a twice-daily rise and fall of tides, but only a few areas are suitable for exploiting this energy source.
+
+One limitation is that the tidal range must be at least five meters, and there must also be a coastal region where water can be stored following high tide.
+
+Suitable sites for using tidal power are limited not only by tidal range but also by location.
+
+Many areas along the U.S. Gulf Coast would certainly benefit from tidal power plants, but a tide range of generally less than one meter precludes the possibility of development.
+
+Even areas with an appropriate tidal range, such as the Arctic islands of Canada, offer little potential because of their great distances from population centers.
+

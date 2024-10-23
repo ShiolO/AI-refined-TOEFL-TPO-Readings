@@ -1,0 +1,72 @@
+﻿Nineteenth-Century Theories of Mountain Formation
+
+One of the central scientific questions of nineteenth-century geology was the origin of mountains.
+
+How were they formed?
+
+What process squeezed and folded rocks like bread dough?
+
+What made Earth's surface move?
+
+Most theories invoked terrestrial contraction as a causal force.
+
+It was widely believed that Earth had formed as a hot, incandescent body and had been steadily cooling since the beginning of geological time.
+
+Because most materials contract as they cool, it seemed logical to assume that Earth had been contracting as it cooled, too.
+
+As it did, its surface would have deformed, producing mountains.
+
+In Europe, Austrian geologist Eduard Suess (1831-1914) popularized the image of Earth as a drying apple: as the planet contracted, its surface wrinkled to accommodate the diminished surface area.
+
+Suess assumed that Earth's initial crust was continuous but broke apart as the interior shrank.
+
+The collapsed portions formed the ocean basins, the remaining elevated portions formed the continents.
+
+With continued cooling, the original continents became unstable and collapsed to form the next generation of ocean floor, and what had formerly been ocean now became dry land.
+
+Over the course of geological history, there would be a continual interchange of land and sea, a periodic rearrangement of the landmasses.
+
+The interchangeability of continents and oceans explained a number of other perplexing geological observations, such as the presence of marine fossils on land (which had long before puzzled Leonardo da Vinci) and the extensive interleaving of marine and terrestrial sediments in the stratigraphic record.
+
+Suess's theory also explained the striking similarities of fossils in parts of Africa and South America.
+
+Indeed, in some cases the fossils seemed to be identical, even though they were found thousands of miles apart.
+
+These similarities had been recognized since the mid-nineteenth century, but they had been made newly problematic by Darwin's theory of evolution.
+
+If plants and animals had evolved independently in different places within diverse environments, then why did they look so similar?
+
+Suess explained this conundrum by attributing these similar species to an early geological age when the continents were contiguous in an ancient supercontinent called Gondwanaland.
+
+Suess's theory was widely discussed and to varying degrees accepted in Europe, but in North America geologist James Dwight Dana (1813-1895) had developed a different version of contraction theory.
+
+Dana suggested that the continents had formed early in Earth history, when low-temperature minerals such as quartz and feldspar had solidified.
+
+Then the globe continued to cool and contract, until the high-temperature minerals such as olivine and pyroxene finally solidified-on the Moon, to form the lunar craters;
+
+on Earth, to form the ocean basins.
+
+As contraction continued after Earth was solid, its surface began to deform.
+
+The boundaries between continents and oceans were most affected by the pressure, and so mountains began to form along continental margins.
+
+With continued contraction came continued deformation, but with the continents and oceans always in the same relative positions.
+
+Although Dana's theory was a version of contraction, it came to be known as permanence theory because it viewed continents and oceans as globally permanent features.
+
+In North America, permanence theory was linked to the theory of subsidence (or sinking) of sedimentary basins along continental margins.
+
+This idea was developed primarily by paleontologist James Hall (1811-1898), who noted that beneath the forest cover, the Appalachian Mountains of North America were built up of folded layers of shallow-water sedimentary rocks, thousands of feet thick.
+
+How did these sequences of shallow-water deposits form?
+
+How were they folded and uplifted into mountains?
+
+Hall suggested that materials eroded off the continents accumulated in the adjacent marginal basins, causing the basins to subside.
+
+Subsidence allowed more sediment to accumulate, causing more subsidence, until finally, the weight of the pile caused the sediments to be heated, converted to rock, and then uplifted into mountains.
+
+Dana modified Hall's view by arguing that thick sedimentary piles were not the cause of subsidence but the result of it.
+
+Either way, the theory provided a concise explanation of how thick sequences of shallow-water rocks could accumulate but was vague on the question of how they were transformed into mountain belts.
+

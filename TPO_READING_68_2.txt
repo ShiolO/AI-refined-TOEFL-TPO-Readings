@@ -1,0 +1,66 @@
+﻿Predicting Volcanic Eruptions
+
+Volcanoes are the landforms created when molten rock, or magma, escapes from vents in the Earth's surface and then solidifies around these vents.
+
+In any given year, roughly 50 of Earth's active volcanoes erupt-usually with some warning.
+
+Before they blow, they typically shake, swell, warm up, and belch a variety of gases.
+
+Scientists from the Volcano Disaster Assistance Program (VDAP)-part of the U.S. Geological Survey and based at the U.S. Geological Survey's Cascades Volcano Observatory in Vancouver, Washington-are always on call, ready when summoned to rush at a moment's notice to an awakening volcano anywhere in the world;
+
+armed with the latest in lasers, seismometers, and other monitoring devices, they can assess the volcano's potential for violence and predict when it might ignite.
+
+Geologists have enjoyed fair success in predicting individual eruptive episodes when they concentrate on a specific volcano after an eruptive phase has begun.
+
+These monitoring efforts involve carefully measuring changes in a volcano's surface temperature, watching for the slightest expansion in its slope, and keeping track of regional earthquake activity.
+
+A laboratory at the University of Washington in Seattle is staffed 24 hours a day to monitor the rumblings of Mount St. Helens.
+
+Even with the advances brought by today's technology, however, the art of volcano prediction has not been fully mastered.
+
+The U.S. Geological Survey missed the call on Mount St. Helens' 1980 blast despite the fact that the mountain was being watched closely by a large team of scientists armed with the latest in prediction technology.
+
+It did successfully predict the eruption of Mount Pinatubo in the Philippines, evacuating virtually everyone within 25 kilometers (15 miles) before the volcano's powerful blast on May 17, 1991.
+
+Before a volcano erupts, hot magma rises toward the surface, so any local manifestation of increasing heat may signal an impending event.
+
+Ongoing surveys can identify new surface hot springs and take the temperature of the water and steam in existing ones.
+
+If the escaping steam isn't much hotter than the boiling point of water, then surface water is probably seeping into the mountain and being heated by contact with hot subsurface rocks, and all is well for the time being.
+
+If the steam is superheated, with temperatures as high as 500℃ (900℉), then it probably derives from shallow water-rich magma, a sign that an eruption may be brewing.
+
+As magma rises, the volcanic cone itself begins to heat up.
+
+The overall temperature of a volcanic cone can be monitored from an orbiting satellite equipped with infrared heat sensors to detect the slightest change in surface temperature.
+
+This high-altitude technology serves as a simultaneous early-warning system for most of Earth's 600 or so active volcanoes.
+
+Impending eruptions may also be predicted by increased gas emissions from rising magmas.
+
+For this reason, volcanologists continuously monitor sulfur dioxide and carbon dioxide emissions from potentially active volcanoes.
+
+Active volcanoes expand in volume as they acquire new supplies of magma from below.
+
+As a result, an increase in the steepness or bulging of a volcano's slope may signal an impending eruption.
+
+To detect the inflation of a volcanic cone, a tilt meter, a device like a carpenter's level, is used.
+
+As magma rises, it pushes aside fractured rock, enlarging the fractures as it moves.
+
+Because this type of fracturing causes earthquakes, eruptions are often preceded by a distinctive pattern of earthquake activity called harmonic tremors, a continuous rhythmic rumbling.
+
+Sensitive equipment that monitors the location where these tremors occur can measure the increased height of rising magma.
+
+The rate at which the magma rises provides an estimate of when an eruption may occur.
+
+Indeed, it served as the principal means by which scientists accurately predicted recent eruptions of Mount St. Helens.
+
+Efforts to predict eruptions are thwarted, however, when we are unaware of a site's volcanic potential.
+
+Occasionally, a new volcano appears suddenly and rather unexpectedly, as was the case in 1943 when the volcano Paricutin developed literally overnight in the Mexican state of Michoacan, 320 kilometers (200 miles) west of Mexico City.
+
+The surrounding area was known to be volcanic because of its geologic zone, but it was not possible to predict that the volcano would appear at this particular site.
+
+Our ability to predict volcanic eruptions continues to improve but is not yet as accurate as we need it to be.
+
